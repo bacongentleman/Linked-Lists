@@ -228,16 +228,3 @@ int LinkedList:: size() const{
     return count;
 }
 
-int main(){
-    LinkedList a;
-    a.insertToFront("bill");
-    a.insertToFront("tommy");
-    a.insertToFront("wally");
-    
-    LinkedList b;
-    b.insertToFront("cock");
-    b.insertToFront("ill");
-    b.insertToFront("hen");
- 
-
-}
